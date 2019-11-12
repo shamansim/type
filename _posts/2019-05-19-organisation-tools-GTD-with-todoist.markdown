@@ -26,7 +26,7 @@ First of all, this is not a miracle recipe, GTD relies on changing your habits a
 
 ##### The context of my daily-life
 
-I am a PhD student in biology, under the supervision of a principal investigator (PI). I have a wide range of tasks as I consider myself hybrid as I contribute to both the bench- (wetlab) and computer-side (drylab). We are a relatively small-medium group (5 to 10 people depending on the amount of undergraduate students coming and leaving). We communicate at the group-level using Slack.
+I am a PhD student in biology, under the supervision of a principal investigator (PI). I have a wide range of tasks as I consider myself hybrid as I contribute to both the experimental- (wetlab) and computer-side (drylab). We are a relatively small-medium group (6 to 8 people). At the group-level, we mostly communicate with Slack.
 
 ---
 
