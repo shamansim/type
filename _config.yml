@@ -9,8 +9,8 @@
 title:       Simon Besson-Girard
 email:       ''
 description: ''
-baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://shamansim.github.io/type/' # The base hostname & protocol for your site
+baseurl:     '/type' # The subpath of your site, e.g. /blog
+url:         'https://shamansim.github.io' # The base hostname & protocol for your site
 twitter:     ''
 github:      ''
 instagram:   ''
