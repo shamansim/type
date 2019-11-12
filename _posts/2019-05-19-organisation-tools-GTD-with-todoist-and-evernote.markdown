@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Organisation tools as a PhD student: GTD with Todoist and Evernote"
-tags: [frontpage, jekyll, blog]
 image: '/images/posts/8.jpg'
 ---
 
