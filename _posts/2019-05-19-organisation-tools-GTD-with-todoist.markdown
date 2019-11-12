@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Organisation tools as a PhD student: GTD with Todoist"
-image: '/images/posts/2.jpg'
+image: '/images/posts/todoistgtd.jpg'
 ---
 
 In this post I would like to talk about how I organise my tasks and plan my day as a Ph.D. student in a biology laboratory.
