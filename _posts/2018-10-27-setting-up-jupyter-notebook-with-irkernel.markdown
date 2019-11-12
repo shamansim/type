@@ -2,6 +2,7 @@
 layout: post
 title: "Setting-up Jupyter Notebook with IRkernel"
 image: '/images/posts/jupyternotebook.png'
+comments: true
 ---
 
 I decided to try the jupyter notebooks for two reasons.
