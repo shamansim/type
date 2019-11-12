@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Organisation tools as a PhD student: GTD with Todoist and Evernote
+tags: [frontpage, jekyll, blog]
 image: '/images/posts/8.jpg'
 ---
+
 In this post I would like to talk about how I organise my tasks and plan my day as a Ph.D. student in a biology laboratory.
 
 I am pretty sure you have heard or are using the getting things done (GTD) method by David Allen. Until recently I was relying on paper notebooks and calendar to organize myself, but the appeal of established digital apps got me so I am now using dematerialised tools. Here I will explain how I implement the GTD method with nowadays tools for academia in a lab. The main structure is actually from this excellent [post from Robert Talbert](http://rtalbert.org/gtd-for-academics-simple-trusted-system/). The main tools are, in order of importance, self-discipline, [Todoist](https://todoist.com/) and [Evernote](https://www.evernote.com/). Premium functionalities are not mandatory but recommended. Post on Evernote will follow.
