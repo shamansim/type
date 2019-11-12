@@ -8,19 +8,27 @@ In this post I would like to talk about how I organise my tasks and plan my day 
 
 I am pretty sure you have heard or are using the getting things done (GTD) method by David Allen. Until recently I was relying on paper notebooks and calendar to organize myself, but the appeal of established digital apps got me so I am now using dematerialised tools. Here I will explain how I implement the GTD method with nowadays tools for academia in a lab. The main structure is actually from this excellent [post from Robert Talbert](http://rtalbert.org/gtd-for-academics-simple-trusted-system/). The main tools are, in order of importance, self-discipline, [Todoist](https://todoist.com/) and [Evernote](https://www.evernote.com/). Premium functionalities are not mandatory but recommended. Post on Evernote will follow.
 
+---
+
 ##### Critical points
 
 - Most of the GTD methodology is about building habits and changing yourself;
 - Consistency, rigour and self-discipline are important: fight the neglecting part of you;
 - Important point is the characterisation of the task (priority, type, etc.). You can find my 4 levels of priority in the text below.
 
+---
+
 ##### Introduction
 
 First of all, this is not a miracle recipe, GTD relies on changing your habits and the way you characterize and sort your daily tasks. Everybody is unique and need different methods, that way works for me so I share it with you.
 
+---
+
 ##### The context of my daily-life
 
 I am a PhD student in biology, under the supervision of a principal investigator (PI). I have a wide range of tasks as I consider myself hybrid as I contribute to both the bench- (wetlab) and computer-side (drylab). We are a relatively small-medium group (5 to 10 people depending on the amount of undergraduate students coming and leaving). We communicate at the group-level using Slack.
+
+---
 
 ##### Todoist - Set Up
 
@@ -67,6 +75,8 @@ Labels can be used to further characterize the type of task. This is particularl
 - @isd: when I need to be in the institute to complete the task
 - @computer: when I need a computer to perform the task
 - ... and labels for each member of the lab, including my PI for when I need coordination with someone else.
+
+---
 
 ##### Todoist - Usage
 
