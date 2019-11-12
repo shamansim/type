@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Organisation tools as a PhD student: GTD with Todoist and Evernote"
+title: "Organisation tools as a PhD student: GTD with Todoist"
 image: '/images/posts/2.jpg'
 ---
 
