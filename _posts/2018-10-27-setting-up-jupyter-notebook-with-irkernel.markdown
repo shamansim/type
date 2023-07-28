@@ -34,3 +34,4 @@ install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtool
 devtools::install_github('IRkernel/IRkernel', dependencies = T)
 IRkernel::installspec()
 ```
+EDIT 2023: for at least the last year now, I have been using Emacs and org-mode to host my R and Python code. Writing python in org-mode with code blocks gives it much more power for figure export (can even use wildcards) and it is plain text compared to jupyter notebook and it's in a nice editor, not in the browser.
